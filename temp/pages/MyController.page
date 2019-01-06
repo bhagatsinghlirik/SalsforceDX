@@ -1,0 +1,6 @@
+<apex:page controller="MyController">
+    <apex:pageBlock title="Hello {!$User.FirstName}!">
+        This is your new page.
+       111 Org Id {!$Label.Org_Id}
+    </apex:pageBlock>
+</apex:page>
