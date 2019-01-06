@@ -1,0 +1,542 @@
+[
+    [
+        "E:\\DummyDX\\myproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776300417,
+            "changeTime": 1546776300417,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776300418,
+            "changeTime": 1546776300418,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513656,
+            "changeTime": 1546776513656,
+            "contentHash": "3e1f92729f7d6ab5af683d861051cda8c474610e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776300418,
+            "changeTime": 1546776300418,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546779347373,
+            "changeTime": 1546779347373,
+            "contentHash": "aa9a9b7bdb74c2eb4939763f582b223daea8f504",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\FileUploadController.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\FileUploadController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 781,
+            "modifiedTime": 1546779314938,
+            "changeTime": 1546779314938,
+            "contentHash": "cfefe5a986017c40cfce74e1c859fc82c16c28a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\FileUploadController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\FileUploadController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546779314939,
+            "changeTime": 1546779314939,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 131,
+            "modifiedTime": 1546776513619,
+            "changeTime": 1546776513619,
+            "contentHash": "9ffa0dc2ea4a796ee70aa5dd24b3e6e59ff423bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546776513616,
+            "changeTime": 1546776513616,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_FileUploadController.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_FileUploadController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1546779314940,
+            "changeTime": 1546779314940,
+            "contentHash": "63054e704f7529047123cfef67cd2bc5594100d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_FileUploadController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_FileUploadController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546779314941,
+            "changeTime": 1546779314941,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1546776513625,
+            "changeTime": 1546776513625,
+            "contentHash": "6bda42f1f35314d581f8aa87458a5e224bba09c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1546776513623,
+            "changeTime": 1546776513623,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\labels",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513628,
+            "changeTime": 1546776513628,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 331,
+            "modifiedTime": 1546776513628,
+            "changeTime": 1546776513628,
+            "contentHash": "d941ed74532071220599f9b861e295460ac8cf62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513631,
+            "changeTime": 1546776513631,
+            "contentHash": "93c058d93b0f38346d75d869a14bb43315919463",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\layouts\\Agenda__c-Agenda Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\layouts\\Agenda__c-Agenda Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2366,
+            "modifiedTime": 1546776513631,
+            "changeTime": 1546776513631,
+            "contentHash": "5034e82c310f0af5d095462f83def7bb2a8355b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513642,
+            "changeTime": 1546776513642,
+            "contentHash": "037e398c229c65f978af3bcc1003cf76a886c803",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513646,
+            "changeTime": 1546776513646,
+            "contentHash": "32cf39354a89ef544c3d8612c3a36b988adaced4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\Agenda__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\Agenda__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2011,
+            "modifiedTime": 1546776513643,
+            "changeTime": 1546776513643,
+            "contentHash": "a6dd21b016f6bc737bd7910e30d27db1e6e75b8d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513645,
+            "changeTime": 1546776513645,
+            "contentHash": "cf65c575f13e34d016667b923222c252900c1113",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1546776513644,
+            "changeTime": 1546776513644,
+            "contentHash": "8b9a8cdb7436ce1c43d047c333ed3cc6f3c27048",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1546776513645,
+            "changeTime": 1546776513645,
+            "contentHash": "0d1c4db93723bf4a798e2a3c59eb7f804e381ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1546776513645,
+            "changeTime": 1546776513645,
+            "contentHash": "8f9acf6352ac621a27d061a8467294f4027c529b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513646,
+            "changeTime": 1546776513646,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1546776513646,
+            "changeTime": 1546776513646,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513647,
+            "changeTime": 1546776513647,
+            "contentHash": "bb4ae1fc7f1d6e7ff8feb8f38bc2cfce5cf45550",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules\\Agenda_Schedule_date_not_blank.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules\\Agenda_Schedule_date_not_blank.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1546776513647,
+            "changeTime": 1546776513647,
+            "contentHash": "226f846803164cda434f05d1249047ca25f16a83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546779314943,
+            "changeTime": 1546779314943,
+            "contentHash": "a8410e8bb0eff92d1c8a4ce329424ef699951da5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\FileUpload.page",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\FileUpload.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1398,
+            "modifiedTime": 1546779314942,
+            "changeTime": 1546779314942,
+            "contentHash": "3adee1b306e0aec850df74dc094fd74aaed48563",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\FileUpload.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\FileUpload.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 286,
+            "modifiedTime": 1546779314943,
+            "changeTime": 1546779314943,
+            "contentHash": "49afce3003d421c35780541f83ce87addf2eed36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\MyController.page",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\MyController.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 193,
+            "modifiedTime": 1546776513654,
+            "changeTime": 1546776513654,
+            "contentHash": "1b117c852e653c5855ad7bb4ecab5ea75741d981",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\MyController.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\pages\\MyController.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 288,
+            "modifiedTime": 1546776513653,
+            "changeTime": 1546776513653,
+            "contentHash": "44342108a30ae96a4a8f44aa7dfba90c5d47f84c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546776513656,
+            "changeTime": 1546776513656,
+            "contentHash": "ac9a9258ca58cdb1d1764cc84bd10145b8346e84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject\\force-app\\main\\default\\tabs\\Agenda__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject\\force-app\\main\\default\\tabs\\Agenda__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1546776513657,
+            "changeTime": 1546776513657,
+            "contentHash": "ceb248a73fb162f1dcf8d2d3ef566b30b1095fb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\DummyDX\\myproject",
+        {
+            "state": "n",
+            "sourcePath": "E:\\DummyDX\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546777618478,
+            "changeTime": 1546777618478,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
